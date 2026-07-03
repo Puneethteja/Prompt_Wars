@@ -14,7 +14,7 @@ import joblib
 
 
 df = pd.read_csv(
-    "Prompt_Wars\dataset.csv",
+    "Prompt_Wars\\dataset.csv",
     encoding="utf-8"
 )
 X = df["prompt"]
