@@ -10,12 +10,12 @@ st.set_page_config(
     layout="centered"
 )
 
-model = joblib.load("models\\detector.pkl")
+model = joblib.load("models/detector.pkl")
 
-vectorizer = joblib.load("models\\vectorizer.pkl")
+vectorizer = joblib.load("models/vectorizer.pkl")
 
 df = pd.read_csv(
-    "Prompt_Wars\\dataset.csv",
+    "Prompt_Wars/dataset.csv",
     encoding="utf-8"
 )
 
