@@ -1,4 +1,5 @@
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://YOUR-APP-URL.streamlit.app](https://puneethteja-prompt-wars-streamlitapp-ereq3a.streamlit.app/))
+# PromptWars ⚔️
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://puneethteja-prompt-wars-streamlitapp-ereq3a.streamlit.app/)
 
 # ⚔️ PromptWars
 
