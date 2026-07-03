@@ -1,3 +1,5 @@
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://YOUR-APP-URL.streamlit.app](https://puneethteja-prompt-wars-streamlitapp-ereq3a.streamlit.app/))
+
 # ⚔️ PromptWars
 
 PromptWars is a machine learning-based prompt injection detection system that classifies user prompts as **Safe** or **Malicious**. The project demonstrates how Natural Language Processing (NLP) and supervised machine learning can be used to identify prompt injection attempts, jailbreak prompts, and adversarial instructions.
